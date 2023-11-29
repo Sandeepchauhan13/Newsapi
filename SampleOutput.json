@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Tupac Shakur murder suspect Duane Davis has two weeks to find lawyer",
+        "description": "Duane Davis is accused of arranging the killing of the hip-hop legend in 1996 in Las Vegas.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-67164992",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C4E8/production/_131480405_davis_976getty.jpg",
+        "publishedAt": "2023-10-20T03:22:17.4709059Z",
+        "content": "The judge overseeing the trial of a man accused of killing rapper Tupac Shakur in 1996 has ordered a two-week delay in order for the suspect to find a lawyer. \r\nThe decision came as Duane \"Keffe D\" D… [+1574 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Niger junta say ousted president Mohamed Bazoum tried to escape",
+        "description": "Mohamed Bazoum tried to flee in the night with his family, cooks and security, the military say.",
+        "url": "http://www.bbc.co.uk/news/world-africa-67166122",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BA5C/production/_131480774_mediaitem131480773.jpg",
+        "publishedAt": "2023-10-20T03:07:17.5657648Z",
+        "content": "The military government in Niger says it has foiled an attempt by the deposed former President, Mohamed Bazoum, to escape from custody.\r\nThe former president attempted to flee in the night with his f… [+2334 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Sidney Powell: Trump ex-lawyer pleads guilty in Georgia election case",
+        "description": "Sidney Powell will now testify for prosecutors at the trial where Donald Trump is a defendant.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-67153479",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ED73/production/_131478706_trump-index-getty.jpg",
+        "publishedAt": "2023-10-20T02:52:20.5341461Z",
+        "content": "Former Donald Trump lawyer Sidney Powell has pleaded guilty to six charges in the Georgia election interference case.\r\nPowell, who was charged alongside the former president, reached a deal with pros… [+3584 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "China has sharply expanded nuclear arsenal, US says",
+        "description": "Beijing now possesses some 500 operational nuclear warheads, a new Pentagon report says.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-67163903",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9158/production/_131480273_gettyimages-1248988562-1.jpg",
+        "publishedAt": "2023-10-20T02:52:19.3156987Z",
+        "content": "China has significantly expanded its nuclear stockpile over the past year and is now holding some 500 operational warheads, the US has said.\r\nAn annual report released by the Pentagon also said Beiji… [+3320 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Israel Gaza: Community frozen as Hamas atrocities continue to emerge",
+        "description": "Israeli communities are struggling as bodies continue to be found after Hamas attacked on 7 October.",
+        "url": "http://www.bbc.co.uk/news/world-middle-east-67165128",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9F68/production/_131480804_mediaitem131480770.jpg",
+        "publishedAt": "2023-10-20T02:52:18.2065993Z",
+        "content": "They are still finding bodies in the neighbourhoods near Gaza.\r\nRecovery teams on Wednesday pulled a woman's body from the rubble in Kibbutz Be'eri. She was naked, her feet bound with metal wire.\r\nOn… [+4184 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Israel Gaza: The world is losing its humanity, UNRWA chief says",
+        "description": "Gaza's war could spread and the region is on the \"edge of an abyss\", Philippe Lazzarini tells the BBC.",
+        "url": "http://www.bbc.co.uk/news/world-middle-east-67156865",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10CB3/production/_131478786_gaza_shelter_3khanyounis.jpg",
+        "publishedAt": "2023-10-19T23:52:13.5052353Z",
+        "content": "The Middle East is on the \"edge of an abyss\" as a result of the war between Israel and Hamas, UN agency chief Philippe Lazzarini has told the BBC.\r\nThe commissioner-general of UN relief agency UNRWA … [+3318 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Biden expected to seek $100bn for Israel, Ukraine, Taiwan and US border",
+        "description": "In a rare Oval Office address, the president is also expected to seek funding for Taiwan and the US border.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-67164900",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11BA0/production/_131480627_biden123.jpg",
+        "publishedAt": "2023-10-19T22:22:18.3318792Z",
+        "content": "President Joe Biden will ask Congress for billions of dollars of funding for Israel and Ukraine in a primetime address at the White House on Thursday.\r\nThe bulk of the $100bn (£82bn) request is expec… [+3495 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Canada withdraws 41 diplomats from India",
+        "description": "It is the latest in a row between the two nations over the murder of a Sikh leader on Canadian soil.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-67162218",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+        "publishedAt": "2023-10-19T20:07:20.2678069Z",
+        "content": "Forty-one Canadian diplomats have left India amid a rift over the murder of a Sikh leader on Canadian soil. \r\nIndia asked Canada two weeks ago to withdraw dozens of its diplomatic staff and threatene… [+658 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Gwyneth Paltrow says nepo baby label is an 'ugly moniker'",
+        "description": "The actress says she doesn't like the \"judgement that exists around kids of famous people\".",
+        "url": "http://www.bbc.co.uk/news/entertainment-arts-67155818",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C6F9/production/_131473905_gettyimages-1484725009-2.jpg",
+        "publishedAt": "2023-10-19T16:07:23.4624548Z",
+        "content": "Gwyneth Paltrow has said calling someone a \"nepo baby\" is an \"ugly moniker\", and that children of famous people shouldn't be judged negatively.\r\nThe term refers to suggestions of nepotism when a youn… [+4469 chars]"
+      },
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Jim Jordan set to stop House Speaker vote for now - reports",
+        "description": "The Republican is expected to back a plan to temporarily empower the acting Speaker, Patrick McHenry.",
+        "url": "http://www.bbc.co.uk/news/world-us-canada-67162697",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+        "publishedAt": "2023-10-19T15:52:22.9614889Z",
+        "content": "Jim Jordan will not seek a third vote for now on his bid to become Speaker of the US House of Representatives, as Republicans look to a temporary backup plan, US media reports.\r\nThe Trump-backed, rig… [+1159 chars]"
+      }
+    ]
+  }
