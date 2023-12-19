@@ -3,6 +3,7 @@ import React from 'react'
 import {Link} from 'react-router-dom';
 
 import moment from 'moment';
+// import SearchBar from '../SearchBar';
 // export class Navbar extends Component {
   const Navbar = (props)=>{
   // render() {
@@ -32,16 +33,21 @@ import moment from 'moment';
       <i className="clock">{moment().format('MMMM Do YYYY, h:mm:s a')}</i>
      
      <div className="d-flex">
-       <div className="bg-primary rounded mx-2" onClick={()=>{props.toggleMode('primary')}} style={{height:'30px', width:'30px', cursor:'pointer'}}></div>
+       {/* <div className="bg-primary rounded mx-2" onClick={()=>{props.toggleMode('primary')}} style={{height:'30px', width:'30px', cursor:'pointer'}}></div> */}
        <div className="bg-danger rounded mx-2" onClick={()=>{props.toggleMode('danger')}} style={{height:'30px', width:'30px' ,cursor:'pointer'}}></div>
-       <div className="bg-success rounded mx-2" onClick={()=>{props.toggleMode('success')}} style={{height:'30px', width:'30px', cursor:'pointer'}}></div>
+       {/* <div className="bg-success rounded mx-2" onClick={()=>{props.toggleMode('success')}} style={{height:'30px', width:'30px', cursor:'pointer'}}></div> */}
        <div className="bg-warning rounded mx-2" onClick={()=>{props.toggleMode('warning')}} style={{height:'30px', width:'30px', cursor:'pointer'}}></div>
        <div className="bg-light rounded mx-2" onClick={()=>{props.toggleMode('light')}} style={{height:'30px', width:'30px', cursor:'pointer'}}></div>
-       <div className="bg-dark  rounded mx-2" onClick={()=>{props.toggleMode('dark')}} style={{height:'30px', width:'30px', cursor:'pointer'}}></div>
+       {/* <div className="bg-dark  rounded mx-2" onClick={()=>{props.toggleMode('dark')}} style={{height:'30px', width:'30px', cursor:'pointer'}}></div> */}
      </div>
       
     </div>
   </div>
+  {/* this is search bar here  */}
+{/* <div className="search-bar-container search">
+   <SearchBar />
+    <div>SearchResults</div>
+   </div> */}
 </nav> 
       </div>
     )
