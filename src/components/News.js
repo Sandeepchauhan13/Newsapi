@@ -1,6 +1,6 @@
 // import React, { Component } from 'react'
-import React, {useEffect, useState} from 'react'
-import NewsItem from './NewsItem'
+import React, {useEffect, useState} from 'react';s
+import NewsItem from './NewsItem';
 import Spinner from './Spinner';
 import InfiniteScroll from "react-infinite-scroll-component";
 // import { BrowserRouter, Routes, Route } from 'react-router-dom';
